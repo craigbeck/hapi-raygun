@@ -1,0 +1,20 @@
+{
+  "name": "hapi-raygun",
+  "version": "1.0.0",
+  "description": "Raygun error reporting as a Hapi.js plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "raygun"
+  ],
+  "author": "Craig Beck <cbeck@zipwhip.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hoek": "^2.14.0",
+    "joi": "^6.6.1",
+    "raygun": "^0.7.1"
+  }
+}
