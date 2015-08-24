@@ -31,5 +31,5 @@ server.register({
 - `options`
   - `apiKey` - String, required. Your Raygun API key
   - `filters` - Array, default `["password"]`. Array of strings to filter from payload sent to Raygun (see [this](https://github.com/MindscapeHQ/raygun4node#sending-request-data) for example)
-  - `log` - Boolean, default `false`. If `true`, uses `server.log()` to log when plugin logs calls to Raygun. Depends on logging to be setup properly, i.e. use [good](https://github.com/hapijs/good) and (good-console)[https://github.com/hapijs/good-console] configured to log server log events.
+  - `log` - Boolean, default `false`. If `true`, uses `server.log()` to log when plugin logs calls to Raygun. Depends on logging to be setup properly, i.e. use [good](https://github.com/hapijs/good) and [good-console](https://github.com/hapijs/good-console) configured to log server log events.
   - `user` - Function. Takes a callback accepting a single argument and returning the request's user context. See Raygun [documentation for user callback](https://github.com/MindscapeHQ/raygun4node#affected-user-tracking)
