@@ -3,6 +3,10 @@
   "version": "1.0.3",
   "description": "Raygun error reporting as a Hapi.js plugin",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/craigbeck/hapi-raygun"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
