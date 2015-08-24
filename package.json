@@ -1,6 +1,6 @@
 {
   "name": "hapi-raygun",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Raygun error reporting as a Hapi.js plugin",
   "main": "index.js",
   "scripts": {
