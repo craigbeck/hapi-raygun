@@ -17,8 +17,8 @@
   "author": "Craig Beck <cbeck@zipwhip.com>",
   "license": "ISC",
   "dependencies": {
-    "hoek": "^2.14.0",
-    "joi": "^6.6.1",
+    "hoek": "^2.16.3",
+    "joi": "^6.10.0",
     "raygun": "^0.7.1"
   }
 }
