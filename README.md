@@ -1,6 +1,6 @@
 # hapi-raygun
 
-![dependencies status](https://david-dm.org/craigbeck/hapi-raygun.svg)
+![npm version](https://badge.fury.io/js/hapi-raygun.svg)](https://badge.fury.io/js/hapi-raygun) ![dependencies status](https://david-dm.org/craigbeck/hapi-raygun.svg)
 
 A [Hapi.js](http://hapijs.com) plugin for reporting server-side errors to [Raygun](https://raygun.io).
 
