@@ -17,7 +17,7 @@
     "hapi",
     "raygun"
   ],
-  "author": "Craig Beck <cbeck@zipwhip.com>",
+  "author": "Craig Beck <luckybonza@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "hoek": "^4.1.0",
