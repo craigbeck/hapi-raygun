@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/craigbeck/hapi-raygun"
+    "url": "https://github.com/craigbeck/hapi-raygun"
   },
   "engines": {
     "node": ">=4.0.0"

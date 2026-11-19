@@ -1,5 +1,7 @@
 # hapi-raygun
 
+> **Repository:** [github.com/craigbeck/hapi-raygun](https://github.com/craigbeck/hapi-raygun)
+
 [![npm version](https://badge.fury.io/js/hapi-raygun.svg)](https://www.npmjs.com/package/hapi-raygun) [![dependencies status](https://david-dm.org/craigbeck/hapi-raygun.svg)](https://david-dm.org/craigbeck/hapi-raygun) [![npm downloads](https://img.shields.io/npm/dt/hapi-raygun.svg)](https://www.npmjs.com/package/hapi-raygun) [![npm downloads](https://img.shields.io/npm/dm/hapi-raygun.svg)](https://www.npmjs.com/package/hapi-raygun)
 
 
